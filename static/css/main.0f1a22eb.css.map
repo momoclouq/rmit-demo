@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0f1a22eb.css","mappings":"AAAA,EACE,qBAAsB,CACtB,qBACF,CAEA,KAGE,eAAiB,CADjB,QAAS,CADT,SAGF","sources":["App.css"],"sourcesContent":["* {\n  box-sizing: border-box;\n  font-family: 'Open Sans';\n}\n\nbody {\n  padding: 0;\n  margin: 0;\n  background: black;\n}"],"names":[],"sourceRoot":""}

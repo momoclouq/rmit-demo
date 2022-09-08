@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rmit-demo/static/css/main.0f1a22eb.css",
+    "main.js": "/rmit-demo/static/js/main.d6f04605.js",
+    "static/media/background.webp": "/rmit-demo/static/media/background.cccd0b8da46a39cc1c1f.webp",
+    "index.html": "/rmit-demo/index.html",
+    "main.0f1a22eb.css.map": "/rmit-demo/static/css/main.0f1a22eb.css.map",
+    "main.d6f04605.js.map": "/rmit-demo/static/js/main.d6f04605.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f1a22eb.css",
+    "static/js/main.d6f04605.js"
+  ]
+}
